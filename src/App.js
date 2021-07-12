@@ -29,7 +29,7 @@ const App = () =>
   
   // async componentDidMount()
   // {
-  //   //console.log(process.env.REACT_APP_GITHUB_CLIENT_SECRET);
+  //   
   //   this.setState({loading:true})
   //   //if not using async await  use then()
   //   // axios.get("https://api.github.com/users")
